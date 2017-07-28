@@ -1,4 +1,6 @@
-﻿using System;
+﻿using log4net;
+using log4net.Config;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,8 +10,10 @@ namespace StorySite.Controllers
 {
     public class HomeController : Controller
     {
+        private static readonly ILog log = LogManager.GetLogger("DemoLog");
         public ActionResult Index()
         {
+            XmlConfigurator.Configure();
             return View();
         }
 
