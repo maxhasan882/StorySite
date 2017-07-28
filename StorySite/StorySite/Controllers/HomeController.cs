@@ -13,22 +13,41 @@ namespace StorySite.Controllers
         private static readonly ILog log = LogManager.GetLogger("DemoLog");
         public ActionResult Index()
         {
-            log.Debug("Hello");
-            return View();
+            try
+            {
+                return View();
+            }
+            catch (Exception e)
+            {
+                log.Debug("Error in Index : " + e);
+            }
         }
 
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
 
-            return View();
+            try
+            {
+                return View();
+            }
+            catch (Exception e)
+            {
+                log.Debug("Error in About : " + e);
+            }
         }
 
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
-
-            return View();
+            try
+            {
+                return View();
+            }
+            catch (Exception e)
+            {
+                log.Debug("Error in Contact : " + e);
+            }
         }
     }
 }

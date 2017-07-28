@@ -1,1 +1,25 @@
-2017-07-28 15:40:40,515 [6] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:43:29,937 [6] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:43:30,113 [7] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:44:07,393 [6] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:44:17,753 [9] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:44:17,974 [9] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:44:18,080 [9] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:44:18,365 [12] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:45:08,289 [6] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:45:08,570 [6] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:45:08,721 [6] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:45:08,871 [12] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:45:09,070 [9] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:45:32,740 [6] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:45:34,105 [9] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:45:34,249 [9] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:45:34,383 [9] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:45:34,512 [9] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:45:34,647 [6] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:45:34,793 [9] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:45:34,921 [6] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:45:35,063 [6] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:45:35,198 [9] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:45:35,344 [6] DEBUG DemoLog [(null)] - Hello
+2017-07-28 15:53:35,703 [6] DEBUG DemoLog [(null)] - Error in Index : System.DivideByZeroException: Attempted to divide by zero.
+   at StorySite.Controllers.HomeController.Index() in C:\Users\Hasan\Documents\Visual Studio 2015\Projects\StorySite\StorySite\StorySite\StorySite\StorySite\Controllers\HomeController.cs:line 21
