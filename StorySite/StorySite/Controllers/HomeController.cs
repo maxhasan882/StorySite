@@ -13,7 +13,7 @@ namespace StorySite.Controllers
         private static readonly ILog log = LogManager.GetLogger("DemoLog");
         public ActionResult Index()
         {
-            XmlConfigurator.Configure();
+            log.Debug("Hello");
             return View();
         }
 
