@@ -86,3 +86,5 @@ C:\Users\Hasan\Documents\Visual Studio 2015\Projects\StorySite\StorySite\StorySi
 C:\Users\Hasan\Documents\Visual Studio 2015\Projects\StorySite\StorySite\StorySite\StorySite\StorySite\obj\Debug\StorySite.csprojResolveAssemblyReference.cache
 C:\Users\Hasan\Documents\Visual Studio 2015\Projects\StorySite\StorySite\StorySite\StorySite\StorySite\obj\Debug\StorySite.dll
 C:\Users\Hasan\Documents\Visual Studio 2015\Projects\StorySite\StorySite\StorySite\StorySite\StorySite\obj\Debug\StorySite.pdb
+C:\Users\Hasan\Documents\Visual Studio 2015\Projects\StorySite\StorySite\StorySite\StorySite\StorySite\bin\log4net.dll
+C:\Users\Hasan\Documents\Visual Studio 2015\Projects\StorySite\StorySite\StorySite\StorySite\StorySite\bin\log4net.xml
